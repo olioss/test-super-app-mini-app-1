@@ -1,9 +1,9 @@
 {
-  "name": "mini-app-1",
+  "name": "@test-superapp/mini-app-1",
   "version": "0.0.1",
   "main": "./src/index.js",
   "license": "MIT",
-  "description": "",
+  "description": "Sample Mini App module for react-native superapp architecture",
   "scripts": {
     "ios": "react-native run-ios --project-path \"./node_modules/@test-superapp/superappcore/ios\"",
     "postinstall": "cd node_modules/@test-superapp/superappcore/ios && pod install"
@@ -33,5 +33,14 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olioss/test-super-app-mini-app-1.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/olioss/test-super-app-mini-app-1/issues"
+  },
+  "homepage": "https://github.com/olioss/test-super-app-mini-app-1#readme"
 }
