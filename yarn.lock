@@ -1284,10 +1284,10 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@test-superapp/superappcore@0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@test-superapp/superappcore/-/superappcore-0.0.2.tgz#d6748dcf8cfa28443825048de60935fb6274bd19"
-  integrity sha512-wkrn6PweGvFqDtKOgAr38SfyAuERxqXCgfAVnMpIHu/lH3AI2hwcsMmaAhiGfghCbAsiryBLF81TcASPn3TXyA==
+"@test-superapp/superappcore@0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@test-superapp/superappcore/-/superappcore-0.0.3.tgz#f20cf1c15841c6ec292f732ba539bb76ee94fe55"
+  integrity sha512-o1rFCo/VtEYxGsKb4Q/KABzJr86+SbhKJbvrj4ZEs+gKbc+5wRWHsKHyDPMBCtuce9nLvINrLkoftw+8Dfs2FQ==
   dependencies:
     "@react-navigation/native" "^6.0.4"
     react "17.0.2"
