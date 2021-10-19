@@ -1,6 +1,6 @@
 {
   "name": "@test-superapp/mini-app-1",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./src/index.js",
   "license": "MIT",
   "description": "Sample Mini App module for react-native superapp architecture",
@@ -11,6 +11,7 @@
     "@react-navigation/native": "^6.0.4",
     "@react-navigation/native-stack": "^6.2.2",
     "@test-superapp/superappcore": "0.0.3",
+    "@test-superapp/ui-components": "0.0.2",
     "react": "17.0.2",
     "react-native": "0.66.0",
     "react-native-safe-area-context": "^3.3.2",

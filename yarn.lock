@@ -1296,6 +1296,14 @@
     react-native-safe-area-context "^3.3.2"
     react-native-screens "^3.8.0"
 
+"@test-superapp/ui-components@0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@test-superapp/ui-components/-/ui-components-0.0.2.tgz#69658d0e568d29a0946bd9fad430015245ff348f"
+  integrity sha512-BwVvWZRhZpXuRzgxABh88PSQ2YqUAtT+yhDOpRXMSdp4nt9lOFQIJhnxlLZvu37ysuMTRvRwSjA34Yn1mo1YPQ==
+  dependencies:
+    react "17.0.2"
+    react-native "0.66.0"
+
 "@tootallnate/once@1":
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/@tootallnate/once/-/once-1.1.2.tgz#ccb91445360179a04e7fe6aff78c00ffc1eeaf82"
